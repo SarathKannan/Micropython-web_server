@@ -2,4 +2,4 @@
 
 ### ESP32 Web server
 
-    When connecting to the IP, we get a web page with a form. On submitting the form ESP32 will generate a confug.json file with the entered data.
+` When connecting to the IP, we get a web page with a form. On submitting the form ESP32 will generate a confug.json file with the entered data.`
